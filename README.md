@@ -7,4 +7,4 @@
 
 - 📫 Contactame **jerrycano37@gmail.com**
 
-- 📄 Conoce mis experiencias [https://www.linkedin.com/in/jerry-eliezher-cano-garc%C3%ADa-93924710a](https://www.linkedin.com/in/jerry-eliezher-cano-garc%C3%ADa-93924710a)
+- 📄 Conoce mis experiencias [www.linkedin.com](https://www.linkedin.com/in/jerry-eliezher-cano-garc%C3%ADa-93924710a)
