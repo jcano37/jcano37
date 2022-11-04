@@ -52,6 +52,6 @@
 <h3 align="center"> 🤝🏻 &nbsp;Conéctate conmigo </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jerry-eliezher-cano-garc%C3%ADa-93924710a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jerrycano-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jerry-eliezher-cano-garc%C3%ADa-93924710a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jerry Eliezher Cano García-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:jerrycano37@gmailcom"><img alt="Email" src="https://img.shields.io/badge/Email-jerrycano37@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
