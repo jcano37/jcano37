@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mí
 
-¡Hola! Soy desarrollador backend con experiencia en el diseño y desarrollo de software. Trabajo principalmente con Python y JavaScript y tengo conocimientos sólidos en bases de datos relacionales y no relacionales, mensajería, y despliegue en la nube. Me apasiona optimizar procesos, escribir código limpio y crear soluciones escalables para entornos exigentes.
+¡Hola! Soy desarrollador backend con experiencia en diseño y desarrollo de software. Trabajo principalmente con Python y JavaScript y tengo conocimientos sólidos en bases de datos relacionales y no relacionales, mensajería, y despliegue en la nube. Me apasiona optimizar procesos, escribir código limpio y crear soluciones escalables para entornos exigentes.
 
 ---
 
