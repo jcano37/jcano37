@@ -36,7 +36,7 @@
 <h2 align="center">📬 Contacto</h2>
 
 <p align="center">
-  💼 <a href="www.linkedin.com/in/jerry-eliezher-cano-garcía-93924710a">LinkedIn</a>  
+  💼 <a href="https://www.linkedin.com/in/jerry-eliezher-cano-garcía-93924710a">LinkedIn</a>  
   <br>
   📧 <a href="mailto:jerrycano37@gmail.com">jerrycano37@gmail.com</a>
 </p>
