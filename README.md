@@ -1,45 +1,85 @@
-## 👨‍💻 Sobre mí
+# 🚀 Jerry Cano | Desarrollador Backend
 
-¡Hola! Soy desarrollador backend con experiencia en diseño y desarrollo de software. Trabajo principalmente con Python y JavaScript y tengo conocimientos sólidos en bases de datos relacionales y no relacionales, mensajería, y despliegue en la nube. Me apasiona optimizar procesos, escribir código limpio y crear soluciones escalables para entornos exigentes.
+> **Transformando ideas en soluciones escalables con código limpio y arquitecturas robustas**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jerry-eliezher-cano-garcía-93924710a)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerrycano37@gmail.com)
 
 ---
 
-<h2 align="center">⚙️ Tecnologías y herramientas</h2>
+## 💡 Sobre Mí
+
+**Desarrollador Backend** especializado en diseñar y construir soluciones de software de alto rendimiento. Me enfoco en crear **arquitecturas escalables**, optimizar procesos y entregar código limpio y mantenible para entornos exigentes.
+
+---
+
+## 🎯 Experiencia Principal
+
+### 🔌 **APIs & Microservicios**
+- Desarrollo de **APIs RESTful** de alto rendimiento con Flask y NestJS
+- Implementación de **microservicios**
+- **Autenticación JWT** y sistemas de autorización robustos
+
+### 🗄️ **Bases de Datos & Optimización**
+- Diseño de **esquemas relacionales complejos** (PostgreSQL, Oracle, SQL Server)
+- Optimización de **consultas SQL** para mejorar rendimiento
+
+### ⚡ **Performance & Escalabilidad**
+- **Cacheo inteligente** con Redis para reducir latencia
+- Implementación de **colas de mensajes** con RabbitMQ
+- **Monitoreo de aplicaciones** y optimización de recursos
+
+### ☁️ **DevOps & Infraestructura**
+- **Containerización** con Docker para despliegues consistentes
+- **CI/CD pipelines** para automatización de releases
+- **Monitoreo proactivo** y manejo de errores en producción
+
+---
+
+## 🛠️ Stack Tecnológico
+
+```javascript
+const jerry = {
+    lenguajes: ["Python", "JavaScript", "TypeScript"],
+    frameworks: ["Flask", "NestJS", "Node.js"],
+    baseDatos: ["PostgreSQL", "MongoDB", "Oracle", "SQL Server"],
+    nube: ["Azure", "Docker"],
+    herramientas: ["Redis", "RabbitMQ"]
+};
+```
 
 <div align="center">
 
-### 📝 Lenguajes  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🔧 Frameworks / Librerías  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ Bases de datos  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Infraestructura y DevOps  
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### 📨 Mensajería y Almacenamiento  
-![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 </div>
 
 ---
 
-<h2 align="center">📬 Contacto</h2>
+## 🚀 Lo Que Aporto
 
-<p align="center">
-  💼 <a href="https://www.linkedin.com/in/jerry-eliezher-cano-garcía-93924710a">LinkedIn</a>  
-  <br>
-  📧 <a href="mailto:jerrycano37@gmail.com">jerrycano37@gmail.com</a>
-</p>
+- **🏗️ Arquitectura Escalable:** Sistemas que crecen con tu negocio
+- **⚡ Optimización de Rendimiento:** Aplicaciones más rápidas y eficientes
+- **🔒 Soluciones Robustas:** Sistemas confiables para producción
+- **📊 Expertise en Datos:** Trabajo con bases de datos SQL y NoSQL
+- **☁️ Listo para la Nube:** Despliegue y gestion de aplicaciones en la nube
+
+---
+
+<div align="center">
+
+### 💬 Construyamos Algo Increíble Juntos
+
+**¡Abierto a nuevas oportunidades y desafíos emocionantes!**
+
+</div>
