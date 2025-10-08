@@ -42,7 +42,7 @@ Construyo **sistemas backend robustos, escalables y de alto rendimiento**. Exper
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Métricas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcano37&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -53,7 +53,32 @@ Construyo **sistemas backend robustos, escalables y de alto rendimiento**. Exper
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcano37&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
+## 💡 Frase Del Día
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20performance%20improvement%20is%20the%20transition%20from%20the%20nonworking%20state%20to%20the%20working%20state&author=John%20Ousterhout" alt="Dev Quote"/>
+</div>
+
 ---
+
+## 🎯 Logros
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🏆<br><b>Microservices</b><br><sub>Arquitectura escalable</sub></td>
+      <td align="center">⚡<br><b>Performance</b><br><sub>Optimización SQL</sub></td>
+      <td align="center">🐳<br><b>Docker</b><br><sub>Containerización</sub></td>
+      <td align="center">☁️<br><b>Cloud Architect</b><br><sub>Azure & AWS</sub></td>
+    </tr>
+    <tr>
+      <td align="center">🔄<br><b>CI/CD</b><br><sub>Automatización</sub></td>
+      <td align="center">📊<br><b>Monitoring</b><br><sub>Observabilidad</sub></td>
+      <td align="center">🚀<br><b>API Designer</b><br><sub>RESTful</sub></td>
+      <td align="center">🔐<br><b>Security</b><br><sub>Seguridad backend</sub></td>
+    </tr>
+  </table>
+</div>
 
 ## 🤝 Conecta Conmigo
 
@@ -66,6 +91,9 @@ Construyo **sistemas backend robustos, escalables y de alto rendimiento**. Exper
   </a>
   <a href="mailto:contact@jcano37.dev" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://jcano37.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
