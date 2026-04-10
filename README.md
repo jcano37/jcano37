@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jcano37/jcano37/refs/heads/main/banner.png" alt="Banner Personalizado" width="100%"/>
-  
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Microservices+Architect;Cloud+Engineer" alt="Typing SVG" />
   </h1>
@@ -15,11 +13,9 @@
 
 ## 🚀 Sobre Mí
 
-Construyo **sistemas backend robustos, escalables y de alto rendimiento**. Experto en arquitectura de microservicios, APIs y optimización de datos, enfocado en la calidad, observabilidad y eficiencia operativa.
+**Backend y microservicios:** APIs, datos y rendimiento en producción. Node.js, Python y Docker.
 
-- 🔭 Trabajando en **arquitecturas de microservicios escalables**
-- 💬 Pregúntame sobre **Node.js, Python, Docker, etc**
-- ⚡ Me encanta **optimizar consultas SQL complejas**
+- **Enfoque:** escalabilidad, observabilidad y SQL de alto rendimiento
 
 ---
 
@@ -42,17 +38,6 @@ Construyo **sistemas backend robustos, escalables y de alto rendimiento**. Exper
 
 ---
 
-## 📊 Métricas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcano37&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcano37&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcano37&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
 ## 💡 Frase Del Día
 
 <div align="center">
@@ -61,21 +46,21 @@ Construyo **sistemas backend robustos, escalables y de alto rendimiento**. Exper
 
 ---
 
-## 🎯 Logros
+## 🎯 Experiencia
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">🏆<br><b>Microservices</b><br><sub>Arquitectura escalable</sub></td>
-      <td align="center">⚡<br><b>Performance</b><br><sub>Optimización SQL</sub></td>
-      <td align="center">🐳<br><b>Docker</b><br><sub>Containerización</sub></td>
-      <td align="center">☁️<br><b>Cloud Architect</b><br><sub>Azure & AWS</sub></td>
+      <td align="center">🏗️<br><b>Microservicios</b><br><sub>Arquitectura y despliegue</sub></td>
+      <td align="center">⚡<br><b>Rendimiento</b><br><sub>SQL y bases de datos</sub></td>
+      <td align="center">🐳<br><b>Docker</b><br><sub>Contenedores en producción</sub></td>
+      <td align="center">☁️<br><b>Cloud</b><br><sub>Azure y AWS</sub></td>
     </tr>
     <tr>
-      <td align="center">🔄<br><b>CI/CD</b><br><sub>Automatización</sub></td>
-      <td align="center">📊<br><b>Monitoring</b><br><sub>Observabilidad</sub></td>
-      <td align="center">🚀<br><b>API Designer</b><br><sub>RESTful</sub></td>
-      <td align="center">🔐<br><b>Security</b><br><sub>Seguridad backend</sub></td>
+      <td align="center">🔄<br><b>CI/CD</b><br><sub>Pipelines y releases</sub></td>
+      <td align="center">📊<br><b>Observabilidad</b><br><sub>Métricas, logs y alertas</sub></td>
+      <td align="center">🔌<br><b>APIs REST</b><br><sub>Diseño y versionado</sub></td>
+      <td align="center">🔐<br><b>Seguridad</b><br><sub>APIs y datos sensibles</sub></td>
     </tr>
   </table>
 </div>
@@ -85,11 +70,7 @@ Construyo **sistemas backend robustos, escalables y de alto rendimiento**. Exper
 <div align="center">
   <a href="https://linkedin.com/in/jcano37" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/jcano37" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:contact@jcano37.dev" target="_blank">
+  <a href="mailto:jerrycano37@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://jcano37.dev" target="_blank">
